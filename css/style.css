@@ -1,0 +1,22 @@
+#homeHero {
+    height: 300px;
+    padding: 100px;
+}
+
+#homeHero h1, h2, h6 {
+    text-align: center;
+}
+
+.subQuote {
+    font-size: .2rem;   
+    font-style: oblique;
+    color: #555555;
+}
+
+#codeBox {
+    padding-top: 40px;
+}
+
+#exampleBox {
+    padding: 0px;
+}
