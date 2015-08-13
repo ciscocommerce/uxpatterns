@@ -18,5 +18,24 @@
 }
 
 #exampleBox {
+    padding-top: 2rem;
+}
+
+.codeSnippet {
+    font-family: monospace;
+}
+
+.panel {
+    height: 300px;
+    overflow: scroll;
+}
+
+.cssIndent {
+    padding-left: 2rem;
+    font-family: monospace;
+}
+
+.commentary {
+    margin-top: 5rem;
     padding: 0px;
 }
